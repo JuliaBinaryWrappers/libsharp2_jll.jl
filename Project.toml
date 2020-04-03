@@ -1,6 +1,6 @@
 name = "libsharp2_jll"
 uuid = "180207a7-b08e-5162-af94-7d62a04fe081"
-version = "1.0.0+0"
+version = "1.0.0+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
