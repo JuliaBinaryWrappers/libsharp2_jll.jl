@@ -1,143 +1,143 @@
 [[libsharp2]]
 arch = "aarch64"
-git-tree-sha1 = "9c214ca254ad219b2d550ed037c630bad9532aae"
+git-tree-sha1 = "01920230688fbc3de41e54314edd76b3978a6461"
 os = "macos"
 
     [[libsharp2.download]]
-    sha256 = "be7d65e34f254f7d64cd7991f01d64a98b647600ace0fda0fa89a7897867056d"
-    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+1/libsharp2.v1.0.2.aarch64-apple-darwin.tar.gz"
+    sha256 = "a7aa2ef3fd03744bfd0a2489c215afe5dba2a95408c8f7e8b98c162ee8f128e4"
+    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+2/libsharp2.v1.0.2.aarch64-apple-darwin.tar.gz"
 [[libsharp2]]
 arch = "aarch64"
-git-tree-sha1 = "3fb05a3e3458200833c6075e116cfeae6837ca7f"
+git-tree-sha1 = "eabe3e92e92eeb3c43f1ae31224e0de35c0377d0"
 libc = "glibc"
 os = "linux"
 
     [[libsharp2.download]]
-    sha256 = "ed34aac66cd15aaf0147228ce0e8ffdb4f8338808d8dc073aa714d0b82905542"
-    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+1/libsharp2.v1.0.2.aarch64-linux-gnu.tar.gz"
+    sha256 = "f15a65b1163cca0032e380810d6c8355e913fe76233d5456aa0900883565b472"
+    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+2/libsharp2.v1.0.2.aarch64-linux-gnu.tar.gz"
 [[libsharp2]]
 arch = "aarch64"
-git-tree-sha1 = "7e1ea4de6321db82d031967d91972cf77aa46b64"
+git-tree-sha1 = "17be47faf6693cdd95997b846dfd7b6c4402e399"
 libc = "musl"
 os = "linux"
 
     [[libsharp2.download]]
-    sha256 = "f40d03aa88e3725707da1dbf6fefb28a2e0164bf4259370e2307dddbc421c9fd"
-    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+1/libsharp2.v1.0.2.aarch64-linux-musl.tar.gz"
+    sha256 = "3c379b4b4b36390f802d5e4c52210f46c547d13f5e0029ef7137b4f5b84e9c58"
+    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+2/libsharp2.v1.0.2.aarch64-linux-musl.tar.gz"
 [[libsharp2]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7978068f3ca44bf6c30c331fab399f278b1d2fd6"
+git-tree-sha1 = "19017363d095a21e114575d83db7a0ce898581e4"
 libc = "glibc"
 os = "linux"
 
     [[libsharp2.download]]
-    sha256 = "3e122b7e9e4a3e678a9361c946610cbcc21db028ff928392dfd563351a6c4ced"
-    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+1/libsharp2.v1.0.2.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "a4d9182c2826b741d127ea3cd3cc796dbe24fc5f85bf6844a82218d6c8c8f0c4"
+    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+2/libsharp2.v1.0.2.armv6l-linux-gnueabihf.tar.gz"
 [[libsharp2]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "e972186fa7280d158e568183401e75d5d4e3aeb7"
+git-tree-sha1 = "861e76581f0ca54897d50865c1533a6429bcc29c"
 libc = "musl"
 os = "linux"
 
     [[libsharp2.download]]
-    sha256 = "526ea19500c192c453c7723ece4b683c1b6fb033ccab1d01ed9d69925f8cbac5"
-    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+1/libsharp2.v1.0.2.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "589d90388599ca48510918301be1419e25837b1d55cadaf587dd019115702ef7"
+    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+2/libsharp2.v1.0.2.armv6l-linux-musleabihf.tar.gz"
 [[libsharp2]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "6f8611e3ff6fa0b25f7dbdbf985a5ee1501c4d88"
+git-tree-sha1 = "4733ed9915361dda9ba2119a32a9edf822506190"
 libc = "glibc"
 os = "linux"
 
     [[libsharp2.download]]
-    sha256 = "04de23e175ea303fa0fcfe77e9af1500b6a61367dd20d2339689935566cf3191"
-    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+1/libsharp2.v1.0.2.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "ce4e1abfddfe287799bcf517a0f311531f75b4b11d9ce6223be80824325c4f6c"
+    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+2/libsharp2.v1.0.2.armv7l-linux-gnueabihf.tar.gz"
 [[libsharp2]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "e8125914d3999b4a781a39e796fcd66a9b06684d"
+git-tree-sha1 = "c1d9ffba73cdc8c9c88ea1b42dc764b9a783d345"
 libc = "musl"
 os = "linux"
 
     [[libsharp2.download]]
-    sha256 = "ec8e518dff3787ae6e8d599234837f3b5d9f180f282c4178d3a2c1565628cdbd"
-    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+1/libsharp2.v1.0.2.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "29aaeaef898ca31d7b821b3a563fa1d28063e769fc7de8719f6d6486803f6954"
+    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+2/libsharp2.v1.0.2.armv7l-linux-musleabihf.tar.gz"
 [[libsharp2]]
 arch = "i686"
-git-tree-sha1 = "15d7c38128e55d9e91a64876286b92eec2472a59"
+git-tree-sha1 = "fa9f5b6677927b8d64c899494f1369f9ae5f9ddd"
 libc = "glibc"
 os = "linux"
 
     [[libsharp2.download]]
-    sha256 = "fd6d32b090c01aef295676bdd32e71e40cec0814b3c2d2308f739890ab40fabf"
-    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+1/libsharp2.v1.0.2.i686-linux-gnu.tar.gz"
+    sha256 = "cf539937dc7dfb8570cba1ec2a246305d15a66577601f246b6249a8a980a86a3"
+    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+2/libsharp2.v1.0.2.i686-linux-gnu.tar.gz"
 [[libsharp2]]
 arch = "i686"
-git-tree-sha1 = "942e73fce53a1ca75e14bce3dbd96db28ea25226"
+git-tree-sha1 = "917eb8c929a4a77449bcb6c9fbdb96b860d08398"
 libc = "musl"
 os = "linux"
 
     [[libsharp2.download]]
-    sha256 = "5c21d79f68b8510d95b3914bf0ec415e018a9d65fac317b20888cb4eff151676"
-    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+1/libsharp2.v1.0.2.i686-linux-musl.tar.gz"
+    sha256 = "d68c17b1a819339831607ac6c27cdb9e03419eda076cd4e9e44d890fd9f60470"
+    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+2/libsharp2.v1.0.2.i686-linux-musl.tar.gz"
 [[libsharp2]]
 arch = "i686"
-git-tree-sha1 = "55a8d74bc7a3e8efe2c4c6667d0e76f542a11793"
+git-tree-sha1 = "2ef8295c240c766087a90b8d26dca48a1fb7598b"
 os = "windows"
 
     [[libsharp2.download]]
-    sha256 = "cf7cb9d3aab7c7e29a72f79e5a6b616d562c3e3f3e611899feceba4843eb07c8"
-    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+1/libsharp2.v1.0.2.i686-w64-mingw32.tar.gz"
+    sha256 = "6a6b9e3d25d356f9f2b533ba9d9cf0ee5bc23f9a9694e3f61ae8e04725cd6729"
+    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+2/libsharp2.v1.0.2.i686-w64-mingw32.tar.gz"
 [[libsharp2]]
 arch = "powerpc64le"
-git-tree-sha1 = "46cc145b93dda7e918225299213b4557307a0359"
+git-tree-sha1 = "1e3d2ce9203aff37c9accf1811cdb776d7aa7cd1"
 libc = "glibc"
 os = "linux"
 
     [[libsharp2.download]]
-    sha256 = "e9d7484619bd86ec10c87492fe7b8c1c819b75b952a5e128d3c9260f6757bb64"
-    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+1/libsharp2.v1.0.2.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "4930e5569fcbd0b06d8a9f7c43c064e415aa1fdc336ca5a88874fbf9ce419d79"
+    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+2/libsharp2.v1.0.2.powerpc64le-linux-gnu.tar.gz"
 [[libsharp2]]
 arch = "x86_64"
-git-tree-sha1 = "3c6348e679b973b319d3349bf7b3528b99fbbfac"
+git-tree-sha1 = "6da03708fac2456dfa7a34f178b890cb0db6ca84"
 os = "macos"
 
     [[libsharp2.download]]
-    sha256 = "124a3936eb4f569c519ba2f49527abc9242f78d43f4143418da8a1166a413601"
-    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+1/libsharp2.v1.0.2.x86_64-apple-darwin.tar.gz"
+    sha256 = "beda23593fe49048fb2959a1f898336b3980c98ab8bd13415f90789628298644"
+    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+2/libsharp2.v1.0.2.x86_64-apple-darwin.tar.gz"
 [[libsharp2]]
 arch = "x86_64"
-git-tree-sha1 = "1b2881c7e06f4b90fa39d128336e3fef7ceb81d9"
+git-tree-sha1 = "4c2c751366e0090c42cf32b16fbbbc08636b5893"
 libc = "glibc"
 os = "linux"
 
     [[libsharp2.download]]
-    sha256 = "d38db46eb1aaab7a4b1a7c2cf44f0a7ecdcc674f7ae1bd43b621bb3b05d9ecda"
-    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+1/libsharp2.v1.0.2.x86_64-linux-gnu.tar.gz"
+    sha256 = "3998b2da3acd2b54a83513856fbcc85705fe139e42a027ef1226c0b02645da84"
+    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+2/libsharp2.v1.0.2.x86_64-linux-gnu.tar.gz"
 [[libsharp2]]
 arch = "x86_64"
-git-tree-sha1 = "ff6f0469874cb57b732105e55ab63d0875922ff1"
+git-tree-sha1 = "ef978348f4af0e123c7f4e1a897b8b870e041124"
 libc = "musl"
 os = "linux"
 
     [[libsharp2.download]]
-    sha256 = "a2979780945e0a8a14850738607aefee12581c2dc0840cc14d1526c8bba0c7b3"
-    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+1/libsharp2.v1.0.2.x86_64-linux-musl.tar.gz"
+    sha256 = "18cd99fb251f41666f8cc8bd8df6e1200dc9465df9e395b045e9453de4446371"
+    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+2/libsharp2.v1.0.2.x86_64-linux-musl.tar.gz"
 [[libsharp2]]
 arch = "x86_64"
-git-tree-sha1 = "de405ec6aeb505e2962a4cec0bcb7c3a3d9f5a6a"
+git-tree-sha1 = "c4936cd7b448d54f4d65dc181d6eeb99ab0bba8e"
 os = "freebsd"
 
     [[libsharp2.download]]
-    sha256 = "85e332e9b89f24e79d38ae91d99b77b174a21be769f4654830596d8a0fffaeb3"
-    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+1/libsharp2.v1.0.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "1ce26cbc41da4745e84e0b6d1b2f73c8b4bbd99046e5914b511856b8dbcb9084"
+    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+2/libsharp2.v1.0.2.x86_64-unknown-freebsd.tar.gz"
 [[libsharp2]]
 arch = "x86_64"
-git-tree-sha1 = "8e0cec78af81cd5f3d41e92249bd4f376f725354"
+git-tree-sha1 = "4b268fcddbbfd6afe5dbe7e9f4e1d9e34d7a42dd"
 os = "windows"
 
     [[libsharp2.download]]
-    sha256 = "b452601c28e11b3a5385bb39ab1168cceb3fbb9327ea618e63d617c8e29c29a1"
-    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+1/libsharp2.v1.0.2.x86_64-w64-mingw32.tar.gz"
+    sha256 = "632ae2e4bc199808552d18272d79c329bbac87a89d611f56d9cf38bf1805c8f0"
+    url = "https://github.com/JuliaBinaryWrappers/libsharp2_jll.jl/releases/download/libsharp2-v1.0.2+2/libsharp2.v1.0.2.x86_64-w64-mingw32.tar.gz"
